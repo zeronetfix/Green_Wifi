@@ -2,8 +2,6 @@
 
 Scan for WiFi devices, block selected connections, Start EvilTwin with custom html, create dozens of networks and confuse WiFi scanners.
 
-<img src='/logo.png' alt='Deauther Logo' width='200' />
-
 ## Connect Green Wifi 
 
 The password for `A F` Wifi is `Dx4White`
